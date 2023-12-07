@@ -1,0 +1,27 @@
+= Java 8 to 21 Features Update
+
+.Java 8 Features
+[cols="1,2"]
+|===
+|S.No |Major Features
+
+|1
+|Functional Interface
+
+|2
+|default & static methods in Interface
+
+|3
+|Lambda Expression
+
+|4
+|Streams
+
+|5
+|Date & Time API
+|===
+
+
+
+include::records_pattern.adoc[]
+include::string_templates.adoc[]
