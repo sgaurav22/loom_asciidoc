@@ -1,26 +1,22 @@
 = Java 8 to 21 Features Update
 
+:leveloffset: +1
 .Java 8 Features
-[cols="1,2"]
+[cols="<3"]
 |===
-|S.No |Major Features
+|Major Features
 
-|1
-|Functional Interface
+|include::functional_interface.adoc[]
 
-|2
 |default & static methods in Interface
 
-|3
 |Lambda Expression
 
-|4
 |Streams
 
-|5
 |Date & Time API
 |===
-
+:leveloffset: -1
 
 
 include::records_pattern.adoc[]
